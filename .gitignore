@@ -1,6 +1,6 @@
 # secrets and env files
 .env
-secrets.toml
+.streamlit/secrets.toml
 *.log
 
 # python
