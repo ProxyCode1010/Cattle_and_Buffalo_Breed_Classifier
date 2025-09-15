@@ -1,4 +1,4 @@
-# 🐄 Indian Cattle & Buffalo Breed Recognition
+# 🐄 Indian Cattle & Buffalo Breed Classifier 
 
 An **AI-powered system** that predicts the breed of cattle or buffalo from an uploaded image.
 
