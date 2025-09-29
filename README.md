@@ -131,6 +131,18 @@ This project creates a **farmer-friendly smart assistant** that:
 
 ---
 
+## ⚠️ Disclaimer
+
+> **Note:** This application is developed for educational and research purposes as part of Smart India Hackathon 2025.
+>
+> - The AI predictions for cattle and buffalo breeds are based on trained models and may not be 100% accurate in all cases.
+> - Always consult veterinary or livestock experts before making breeding, management, or financial decisions.
+> - The developers are not responsible for any livestock loss, health issues, or financial consequences arising from the use of this application.
+> - Use this tool as a supplementary aid alongside professional livestock care advice.
+> - Breed-specific care and management should always follow local guidelines and expert recommendations.
+
+---
+
 ## ✅ Conclusion
 
 This project is more than just a classifier — it is a **farmer-friendly AI assistant 🎯.**  
