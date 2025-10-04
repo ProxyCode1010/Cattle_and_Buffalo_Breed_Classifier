@@ -2,6 +2,8 @@
 
 An **AI-powered system** that predicts the breed of cattle or buffalo from an uploaded image.
 
+[🎥 **Watch Demo**](https://youtu.be/HhurSHXr864?si=o7p1RO4MfFcVXXxE)
+
 Once the breed is identified, the system provides:
 
 - 📖 A detailed **breed summary** (via Groq LLM)  
